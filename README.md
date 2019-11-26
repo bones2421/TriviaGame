@@ -1,5 +1,5 @@
 Trivia Game
-This is, as the title says, a trivia game. In this the user is given a quiz, they are then put on a timer. They must answer questions in the given time, or they fail. If they sucessfully complete the quiz, they are given a score at the end. The quiz is themed to make it harder.
+is, as the title says, a trivia game. In this the user is given a quiz, they are then put on a timer. They must answer questions in the given time, or they fail. If they sucessfully complete the quiz, they are given a score at the end. The quiz is themed to make it harder.
 
 Getting Started
 To run this you only need the deployed link and your browser.
