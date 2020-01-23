@@ -17,6 +17,8 @@ HTML
 CSS
 JavaScript, uses timers
 
+![Annotation 2020-01-22 184346](https://user-images.githubusercontent.com/28325892/72951302-2b81f480-3d4b-11ea-86b0-e8e7c09ee5d2.png)
+
 Author
 Ben Williams
 
